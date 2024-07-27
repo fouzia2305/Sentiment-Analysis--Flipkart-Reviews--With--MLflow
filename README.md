@@ -58,6 +58,6 @@ This project focuses on sentiment analysis using various machine learning models
 To set up the project, clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-mlflow.git
-cd sentiment-analysis-mlflow
+git clone https://github.com/fouzia2305/Sentiment-Analysis--Flipkart-Reviews--With--MLflow.git
+cd Sentiment-Analysis--Flipkart-Reviews--With--MLflow
 pip install -r requirements.txt
